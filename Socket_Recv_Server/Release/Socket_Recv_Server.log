@@ -1,0 +1,18 @@
+﻿生成启动时间为 2019/1/29 15:41:13。
+     1>项目“G:\_github\Hook_ws2_32.dll\Socket_Recv_Server\Socket_Recv_Server.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\Socket_Recv_Server.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\VS2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Socket_Recv_Server.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Socket_Recv_Server.cpp
+         Socket_Recv_Server.cpp
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\_github\Hook_ws2_32.dll\Release\Socket_Recv_Server.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\VS2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"G:\_github\Hook_ws2_32.dll\Release\Socket_Recv_Server.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\_github\Hook_ws2_32.dll\Release\Socket_Recv_Server.lib" /MACHINE:X86 /SAFESEH Release\Socket_Recv_Server.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         Socket_Recv_Server.vcxproj -> G:\_github\Hook_ws2_32.dll\Release\Socket_Recv_Server.exe
+     1>已完成生成项目“G:\_github\Hook_ws2_32.dll\Socket_Recv_Server\Socket_Recv_Server.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.07

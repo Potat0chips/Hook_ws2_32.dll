@@ -1,0 +1,13 @@
+﻿生成启动时间为 2019/1/29 12:49:40。
+     1>项目“G:\_github\Hook_ws2_32.dll\MyRecv\MyRecv.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D MYRECV_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\_github\Hook_ws2_32.dll\Debug\MyRecv.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\_github\Hook_ws2_32.dll\Debug\MyRecv.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\_github\Hook_ws2_32.dll\Debug\MyRecv.lib" /MACHINE:X86 /DLL Debug\dllmain.obj
+         MyRecv.vcxproj -> G:\_github\Hook_ws2_32.dll\Debug\MyRecv.dll
+     1>已完成生成项目“G:\_github\Hook_ws2_32.dll\MyRecv\MyRecv.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.87
